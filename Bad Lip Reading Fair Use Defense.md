@@ -12,7 +12,7 @@ The factors taken into account when determining whether a particular use of copy
 
 #### 1. The purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes
 ____
-The first thing looked at is how the media is being used.  Something that is used for educational purposes, for instance, is far more likely to be considered fair use than something that is made for the sake profit.
+The first thing that's looked at is how the media is being used.  Something that is used for educational purposes, for instance, is far more likely to be considered fair use than something that is made for the sake profit.
 
 At first glance, things may not look good for *Bad Lip Readings* fair use argument.  Since their content is posted to YouTube and therefore earns them money from ad revenue, they are profiting from the use of the NFL's game footage.  Luckily, this is only a small part of what is looked at when determing fair use.
 
