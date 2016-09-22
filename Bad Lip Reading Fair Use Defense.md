@@ -37,12 +37,4 @@ This is another strong defense that *Bad Lip Readings* have in the fair use argu
 
 
 
-### checklist
-[ ] Title and author (you)  
-[ ] A link to your remix    
-[ ] An embedded image of your remix     
-[ ] emphasis (either bold or italics or both)   
-[ ] at least one table  
-[ ] at least three different levels of headings     
-[ ] at least one unordered or ordered list
 
