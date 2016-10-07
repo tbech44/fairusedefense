@@ -38,3 +38,12 @@ This is another strong defense that *Bad Lip Readings* have in the fair use argu
 
 
 
+## TL;DR
+### This tl;dr chart summarizes each component of fair use law as it relates to *Bad Lip Reading*
+
+|Category|Description|
+|----|-----|
+|**Purpose of use**| creating an original work of comedy, profiting from ad revenue|
+|**Nature of original work**| NFL Football broadcasts|
+|**Amount of original work used**| series of very short video clips with audio changed|
+|**Effect on value of copyrighted material**| no effect, the context has been changed too much to be in the same market as the original work|
